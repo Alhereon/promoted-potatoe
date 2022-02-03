@@ -1,8 +1,8 @@
 Mercurio OK
 Venus    OK
 Tierra   OK
-Marte
-Júpiter
-Saturno
-Urano
-Neptuno
+Marte    OK
+Júpiter  OK
+Saturno  OK
+Urano    OK
+Neptuno  OK
