@@ -1,6 +1,6 @@
-Mercurio
-Venus
-Tierra
+Mercurio OK
+Venus    OK
+Tierra   OK
 Marte
 Júpiter
 Saturno
