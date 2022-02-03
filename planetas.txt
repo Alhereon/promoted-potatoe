@@ -6,3 +6,4 @@ Júpiter  OK
 Saturno  OK
 Urano    OK
 Neptuno  OK
+el resto son unos mierdas
